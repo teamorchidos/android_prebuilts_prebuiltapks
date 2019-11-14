@@ -6,6 +6,11 @@
             "type": "fdroid"
         },
         {
+            "name": "AuroraDroid",
+            "packageName": "com.aurora.adroid",
+            "type": "fdroid"
+        },
+        {
             "name": "AuroraServices",
             "packageName": "AuroraServices",
             "url": "https://gitlab.com/api/v4/projects/8363046/releases",
@@ -15,9 +20,7 @@
         {
             "name": "AuroraStore",
             "packageName": "com.aurora.store",
-            "url": "https://gitlab.com/api/v4/projects/6922885/releases",
-            "baseUrl": "https://gitlab.com",
-            "type": "gitlab"
+            "type": "fdroid"
         },
         {
             "name": "Etar",
@@ -25,18 +28,8 @@
             "type": "fdroid"
         },
         {
-            "name": "FDroid",
-            "packageName": "org.fdroid.fdroid",
-            "type": "fdroid"
-        },
-        {
-            "name": "FDroidPrivilegedExtension",
-            "packageName": "org.fdroid.fdroid.privileged",
-            "type": "fdroid"
-        },
-        {
-            "name": "FennecFDroid",
-            "packageName": "org.mozilla.fennec_fdroid",
+            "name": "FirefoxLite",
+            "packageName": "org.mozilla.rocket",
             "type": "fdroid"
         },
         {
