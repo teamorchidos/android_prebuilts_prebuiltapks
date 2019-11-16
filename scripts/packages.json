@@ -61,6 +61,11 @@
             "name": "SimpleFileManagerPro",
             "packageName": "com.simplemobiletools.filemanager.pro",
             "type": "fdroid"
+        },
+        {
+            "name": "SimpleNotesPro",
+            "packageName": "com.simplemobiletools.notes.pro",
+            "type": "fdroid"
         }
     ]
 }
