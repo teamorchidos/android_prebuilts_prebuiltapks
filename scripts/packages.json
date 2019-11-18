@@ -63,6 +63,11 @@
             "type": "fdroid"
         },
         {
+            "name": "SecScanQR",
+            "packageName": "de.t_dankworth.secscanqr",
+            "type": "fdroid"
+        },
+        {
             "name": "SimpleFileManagerPro",
             "packageName": "com.simplemobiletools.filemanager.pro",
             "type": "fdroid"
