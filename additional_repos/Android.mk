@@ -7,3 +7,4 @@ LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT_ETC)/org.fdroid.fdroid
 LOCAL_SRC_FILES := additional_repos.xml
 include $(BUILD_PREBUILT)
+
