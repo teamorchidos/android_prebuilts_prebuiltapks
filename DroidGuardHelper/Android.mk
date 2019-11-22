@@ -10,7 +10,7 @@ include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := FakeStore
+LOCAL_MODULE := DroidGuardHelper
 LOCAL_SRC_FILES := org.microg.gms.droidguard-4.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_PRIVILEGED_MODULE := true
