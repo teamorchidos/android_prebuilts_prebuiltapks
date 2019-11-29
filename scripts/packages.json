@@ -43,13 +43,18 @@
             "type": "fdroid"
         },
         {
+            "name": "Files",
+            "packageName": "me.zhanghai.android.files",
+            "type": "fdroid"
+        },
+        {
             "name": "MozillaNlpBackend",
             "packageName": "org.microg.nlp.backend.ichnaea",
             "type": "fdroid"
         },
         {
             "name": "MuPDFViewer",
-            "packageName": "com.artifex.mupdf.viewer.app_70.apk",
+            "packageName": "com.artifex.mupdf.viewer.app",
             "type": "fdroid"
         },
         {
@@ -70,11 +75,6 @@
         {
             "name": "SecScanQR",
             "packageName": "de.t_dankworth.secscanqr",
-            "type": "fdroid"
-        },
-        {
-            "name": "SimpleFileManagerPro",
-            "packageName": "com.simplemobiletools.filemanager.pro",
             "type": "fdroid"
         },
         {
