@@ -43,7 +43,7 @@
             "type": "fdroid"
         },
         {
-            "name": "Files",
+            "name": "MaterialFiles",
             "packageName": "me.zhanghai.android.files",
             "type": "fdroid"
         },
