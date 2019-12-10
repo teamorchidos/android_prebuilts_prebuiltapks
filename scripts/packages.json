@@ -63,6 +63,11 @@
             "type": "fdroid"
         },
         {
+            "name": "OpenCamera",
+            "packageName": "net.sourceforge.opencamera",
+            "type": "fdroid"
+        },
+        {
             "name": "PrivacyFriendlyNetMonitor",
             "packageName": "org.secuso.privacyfriendlynetmonitor",
             "type": "fdroid"
