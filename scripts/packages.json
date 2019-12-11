@@ -63,6 +63,11 @@
             "type": "fdroid"
         },
         {
+            "name": "OmniNotesFOSS",
+            "packageName": "it.feio.android.omninotes.foss",
+            "type": "fdroid"
+        },
+        {
             "name": "OpenCamera",
             "packageName": "net.sourceforge.opencamera",
             "type": "fdroid"
@@ -80,11 +85,6 @@
         {
             "name": "SecScanQR",
             "packageName": "de.t_dankworth.secscanqr",
-            "type": "fdroid"
-        },
-        {
-            "name": "SimpleNotesPro",
-            "packageName": "com.simplemobiletools.notes.pro",
             "type": "fdroid"
         }
     ]
