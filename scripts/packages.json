@@ -23,11 +23,6 @@
             "type": "fdroid"
         },
         {
-            "name": "DuckDuckGoPrivacyBrowser",
-            "packageName": "com.duckduckgo.mobile.android",
-            "type": "fdroid"
-        },
-        {
             "name": "Etar",
             "packageName": "ws.xsoh.etar",
             "type": "fdroid"
@@ -40,6 +35,11 @@
         {
             "name": "FDroidPrivilegedExtension",
             "packageName": "org.fdroid.fdroid.privileged",
+            "type": "fdroid"
+        },
+        {
+            "name": "FirefoxKlar",
+            "packageName": "org.mozilla.klar",
             "type": "fdroid"
         },
         {
