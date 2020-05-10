@@ -43,6 +43,11 @@
             "type": "fdroid"
         },
         {
+            "name": "GoodWeather",
+            "packageName": "org.asdtm.goodweather",
+            "type": "fdroid"
+        },
+        {
             "name": "MaterialFiles",
             "packageName": "me.zhanghai.android.files",
             "type": "fdroid"
