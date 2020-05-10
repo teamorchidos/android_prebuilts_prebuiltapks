@@ -38,6 +38,11 @@
             "type": "fdroid"
         },
         {
+            "name": "FennecFDroid",
+            "packageName": "org.mozilla.fennec_fdroid",
+            "type": "fdroid"
+        },
+        {
             "name": "FirefoxKlar",
             "packageName": "org.mozilla.klar",
             "type": "fdroid"
