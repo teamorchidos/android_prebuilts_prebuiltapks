@@ -91,6 +91,11 @@
             "name": "SecScanQR",
             "packageName": "de.t_dankworth.secscanqr",
             "type": "fdroid"
+        },
+        {
+            "name": "TrackerControl",
+            "packageName": "net.kollnig.missioncontrol.fdroid",
+            "type": "fdroid"
         }
     ]
 }
