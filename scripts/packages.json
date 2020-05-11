@@ -83,6 +83,11 @@
             "type": "fdroid"
         },
         {
+            "name": "OpenTasks",
+            "packageName": "org.dmfs.tasks",
+            "type": "fdroid"
+        },
+        {
             "name": "OpenCamera",
             "packageName": "net.sourceforge.opencamera",
             "type": "fdroid"
