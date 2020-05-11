@@ -1,11 +1,6 @@
 {
     "packages": [
         {
-            "name": "AdAway",
-            "packageName": "org.adaway",
-            "type": "fdroid"
-        },
-        {
             "name": "AuroraServices",
             "packageName": "AuroraServices",
             "url": "https://gitlab.com/api/v4/projects/8363046/releases",
@@ -15,6 +10,11 @@
         {
             "name": "AuroraStore",
             "packageName": "com.aurora.store",
+            "type": "fdroid"
+        },
+        {
+            "name": "BlokadaV4",
+            "packageName": "org.blokada.alarm",
             "type": "fdroid"
         },
         {
@@ -100,11 +100,6 @@
         {
             "name": "SecScanQR",
             "packageName": "de.t_dankworth.secscanqr",
-            "type": "fdroid"
-        },
-        {
-            "name": "TrackerControl",
-            "packageName": "net.kollnig.missioncontrol.fdroid",
             "type": "fdroid"
         }
     ]
