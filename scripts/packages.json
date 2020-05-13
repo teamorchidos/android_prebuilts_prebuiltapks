@@ -18,11 +18,6 @@
             "type": "fdroid"
         },
         {
-            "name": "DAVx5",
-            "packageName": "at.bitfire.davdroid",
-            "type": "fdroid"
-        },
-        {
             "name": "DuckDuckGoPrivacyBrowser",
             "packageName": "com.duckduckgo.mobile.android",
             "type": "fdroid"
