@@ -78,13 +78,18 @@
             "type": "fdroid"
         },
         {
+            "name": "OpenCamera",
+            "packageName": "net.sourceforge.opencamera",
+            "type": "fdroid"
+        },
+        {
             "name": "OpenTasks",
             "packageName": "org.dmfs.tasks",
             "type": "fdroid"
         },
         {
-            "name": "OpenCamera",
-            "packageName": "net.sourceforge.opencamera",
+            "name": "PrivacyBrowser",
+            "packageName": "com.stoutner.privacybrowser.standard",
             "type": "fdroid"
         },
         {
