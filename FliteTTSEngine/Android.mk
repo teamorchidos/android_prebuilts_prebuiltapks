@@ -1,8 +1,8 @@
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := GoodWeather
-LOCAL_SRC_FILES := org.asdtm.goodweather_13.apk
+LOCAL_MODULE := FliteTTSEngine
+LOCAL_SRC_FILES := edu.cmu.cs.speech.tts.flite_4.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 LOCAL_CERTIFICATE := PRESIGNED
