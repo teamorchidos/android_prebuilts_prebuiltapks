@@ -43,6 +43,11 @@
             "type": "fdroid"
         },
         {
+            "name": "FliteTTSEngine",
+            "packageName": "edu.cmu.cs.speech.tts.flite",
+            "type": "fdroid"
+        },
+        {
             "name": "GoodWeather",
             "packageName": "org.asdtm.goodweather",
             "type": "fdroid"
