@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE := FennecFDroid
-LOCAL_SRC_FILES := org.mozilla.fennec_fdroid_689220.apk
+LOCAL_SRC_FILES := org.mozilla.fennec_fdroid_689320.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 LOCAL_CERTIFICATE := PRESIGNED
